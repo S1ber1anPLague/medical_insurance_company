@@ -1,0 +1,1 @@
+[{"id": 1, "clientId": 1, "employeeId": 1, "hospitalId": 1, "price": 10000.0, "conclusionDate": "01.01.2020", "status": true}, {"id": 2, "clientId": 1, "employeeId": 1, "hospitalId": 2, "price": 4000.0, "conclusionDate": "21.03.2003", "status": false}, {"id": 3, "clientId": 2, "employeeId": 1, "hospitalId": 2, "price": 5000.0, "conclusionDate": "29.10.2021", "status": true}]
